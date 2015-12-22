@@ -1,0 +1,50 @@
+your reviews are fine, though they do not always address the points of color blindness compliance, confusion, honesty. 9.5/10
+
+
+NOTES YOUR PLOT
+=========
+
+color unexplained
+
+size redundant with y position. this rather than clarify the value enforces the concept and leaves a strong impression on the reader, influencing their opinion.
+
+a ticks too small
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+
+dstarobin
+=========
+
+
+very nice plot that summarize a lot of details at once
+
+labels in the legend top left too small to read
+
+nice unobtrusive labels showing single events
+
+drop rides from the labels on the right for compactness
+
+
+consider a more compact notation for the y axis: e.g. use units of 1000 rides
+
+
+murbaneck
+==========
+interesting plot: the choice of plotting with small points allows the structure in the data to be seen
+
+robust to color blindness
+
+the three default dots in the legend should be changed to 1 as they are redudnant
+
+jgrundy
+=======
+
+the plot is clear, colorblind compliant
+
+consider a compressed notation for both axes: riders in units of 10,000 and res housing in units of 10,000 as well.
+
+the line fits are too thin and at the edge of visibility
+
+
+
